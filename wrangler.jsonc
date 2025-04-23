@@ -4,5 +4,6 @@
   "main": "./build/server/index.js",
   "assets": {
     "directory": "./build"
-  }
+  },
+  "compatibility_flags": ["nodejs_compat"]
 }
