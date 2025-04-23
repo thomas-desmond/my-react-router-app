@@ -2,8 +2,4 @@
   "name": "react-router",
   "compatibility_date": "2025-04-23",
   "main": "./workers/app.ts",
-  "assets": {
-    "directory": "./build"
-  },
-  "compatibility_flags": ["nodejs_compat"]
 }
