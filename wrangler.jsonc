@@ -1,7 +1,6 @@
 {
   "name": "react-router",
   "compatibility_date": "2025-04-23",
-  "main": "./build/server/index.js",
   "assets": {
     "directory": "./build"
   },
