@@ -2,6 +2,7 @@
   "name": "react-router",
   "compatibility_date": "2025-04-23",
   "assets": {
+    "directory": "./build",
     "not_found_handling": "single-page-application"
   }
 }
